@@ -13,3 +13,5 @@ venv/
 .agents/
 .claude/
 .pytest_cache/
+bot_state.pickle
+skills-lock.json
