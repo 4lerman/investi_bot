@@ -1,0 +1,10 @@
+{
+  "version": 1,
+  "skills": {
+    "telegram-bot-builder": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "computedHash": "0170a008eca8694afd9776eb34490e6c6013974497d90cc60aeb39339dd3e3a9"
+    }
+  }
+}
